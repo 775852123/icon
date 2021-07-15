@@ -1,2 +1,4 @@
 关于我们,#genre#
 欢迎欣赏,https://raw.githubusercontent.com/390517840/iptv/main/fuck.MP4
+央视频道,#genre#
+CCTV01-综合频道,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg#http://wshls.homecdn.com/live/4387.m3u8#http://183.207.255.190/live/program/live/cctv1hd/4000000/mnf.m3u8#http://42.81.144.99/live.cache.cmvideo.cn/migu/kailu/cctv1hd265/57/20191230/index.m3u8?&encrypt=1#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8#http://39.135.32.29:6610/000000001000/1000000001000021973/1.m3u8?#http://scgctvshow.sctv.com/hdlive/cctv1/1.m3u8#http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
