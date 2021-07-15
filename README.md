@@ -51,9 +51,9 @@ https://raw.githubusercontent.com/390517840/iptv/main/dashijie.txt
 
 其它：
 
-https://raw.githubusercontent.com/390517840/iptv/main/tv1.m3u
+https://raw.githubusercontent.com/390517840/iptv/main/tv1.txt
 
-https://raw.githubusercontent.com/390517840/iptv/main/tv2.m3u
+https://raw.githubusercontent.com/390517840/iptv/main/tv2.txt
 
 音乐MV：
 https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
