@@ -559,6 +559,7 @@ PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037?acc
 大家来跳舞,http://189.ly93.cc/NfmMbyNnmuYb/9154123617969409?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 梦的海洋,http://189.ly93.cc/y2yiai7nAZzu/6154723611444013?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 
-关于软件,#genre#
-大视界TV：,http://189.ly93.cc/iYVVRzvArIV3/5130127921097099?accessToken=C0AE9226E93005D3A088CC8F39C2B799
-严禁商业用途,http://189.ly93.cc/uIjYV3nI3uIf/2132225741615455?accessToken=C0AE9226E93005D3A088CC8F39C2B799
+关于直播,#genre#
+DIYP使用教程,https://raw.githubusercontent.com/390517840/iptv/main/shiyong.mkv
+版本更新,https://raw.githubusercontent.com/390517840/iptv/main/fuck.mkv
+彩蛋,https://raw.githubusercontent.com/390517840/iptv/main/stop.mkv
