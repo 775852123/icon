@@ -368,7 +368,7 @@ News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 大视界TV,http://189.ly93.cc/MruQBfM73Qnu/9132223625637130?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 
-·港台杂类·_121,#genre#
+【港台杂类】_111,#genre#
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 惊悚频道,http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
@@ -440,7 +440,7 @@ ELTA-影剧台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 宝贝电视,http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 尼克儿童,http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
-音乐视频_111,#genre#
+【音乐视频】_111,#genre#
 DJ·体面,http://189.ly93.cc/Ufiii2Ez6zIv/1130124235746654?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 DJ·情火,http://189.ly93.cc/Rrmqiu7fqMfu/4154723731487362?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 DJ·爱的路上千万里,http://189.ly93.cc/AjMNbiIJr6vy/4154724975796127
@@ -559,7 +559,7 @@ PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037?acc
 大家来跳舞,http://189.ly93.cc/NfmMbyNnmuYb/9154123617969409?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 梦的海洋,http://189.ly93.cc/y2yiai7nAZzu/6154723611444013?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 
-关于直播,#genre#
+【关于直播】,#genre#
 DIYP使用教程,https://raw.githubusercontent.com/390517840/iptv/main/shiyong.mkv
 版本更新,https://raw.githubusercontent.com/390517840/iptv/main/fuck.mkv
 彩蛋,https://raw.githubusercontent.com/390517840/iptv/main/stop.mkv
