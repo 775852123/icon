@@ -440,7 +440,7 @@ ELTA-影剧台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
 宝贝电视,http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 尼克儿童,http://185.180.221.194:8278/streams/d/Nickjr/playlist.m3u8
 
-·音乐视频·_121,#genre#
+音乐视频_111,#genre#
 DJ·体面,http://189.ly93.cc/Ufiii2Ez6zIv/1130124235746654?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 DJ·情火,http://189.ly93.cc/Rrmqiu7fqMfu/4154723731487362?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 DJ·爱的路上千万里,http://189.ly93.cc/AjMNbiIJr6vy/4154724975796127
