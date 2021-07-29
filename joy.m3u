@@ -125,7 +125,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225721/index.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225665/index.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="少儿卡通",嘉佳卡通
 https://tcdn.itouchtv.cn/live/jjkt.m3u8?t_token=51a2b3dbcd612ca8b2dd52b9d543ed6d-cGvLBNRGYKLitcP%2BQlpfdbhJv1YrI43oBAXThHvsgGcVMPNEKJ%2FjvbykBDDGQ8G%2B79BA8sZuUWvUalRaIPB%2BR6x81QCrPffS9riLlsp9wxqmx00O9KJauXOJErpTZTg3kQ0wAG%2FMHq2cSZditYEblm8RR8GBK%2BeMAKxQDjQz1IXqUXMLRD7aeDYO0YKX8BxY
-#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-name/main/hahaxuandong.png" group-title="少儿卡通",哈哈炫动
+#EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/hahaxuandong.png" group-title="少儿卡通",哈哈炫动
 http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/xdkt.jpg" group-title="少儿卡通",炫动卡通
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
@@ -137,7 +137,7 @@ http://live.826pc.com/cdtv/live.php?id=6
 http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/ztv8.jpg" group-title="少儿卡通",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-name/main/fujianshaoer.png" group-title="少儿卡通",福建少儿
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/fujianshaoer.png" group-title="少儿卡通",福建少儿
 rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="少儿卡通",优优宝贝
 1
@@ -159,7 +159,7 @@ http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/cgtnnews.jpg" group-title="数字频道",CGTN-NEWS
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-name/main/guangdongtiyu.png" group-title="体育频道",广东体育
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/guangdongtiyu.png" group-title="体育频道",广东体育
 http://api.phoves.com.cn/iptv/gudou3.php?id=gdsportsHD_3000&/PLTV/hls.smil.m3u8
 #EXTINF:-1 group-title="体育频道",体育赛事
 http://111.20.105.60:6060/yinhe/2/ch00000090990000002306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -211,9 +211,9 @@ http://111.20.105.60:6060/yinhe/2/ch00000090990000001699/index.m3u8?virtualDomai
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="纪录频道",精品纪录
 http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-name/main/chunxiang4K.png" group-title="4K频道",纯享4K
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/chunxiang4K.png" group-title="4K频道",纯享4K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-name/main/chunxiang4K.png" group-title="4K频道",纯享4K 备用
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/chunxiang4K.png" group-title="4K频道",纯享4K 备用
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="4K频道",爱上4K
 http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
