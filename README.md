@@ -25,32 +25,24 @@ EPG节目单：http://epg.51zmt.top:8000/e.xml
 
 DIYP 专用：http://epg.51zmt.top:8000/api/diyp/
 
-三，订阅地址
+三，直播源订阅地址
 
-M3U格式
+电视直播：
 
-JOY直播：https://raw.githubusercontent.com/390517840/iptv/main/joy.m3u
+https://raw.githubusercontent.com/390517840/iptv/main/IPTV.m3u
 
-电视直播：https://raw.githubusercontent.com/390517840/iptv/main/IPTV.m3u
+https://raw.githubusercontent.com/390517840/iptv/main/IPTV.txt
 
-大视界TV：https://raw.githubusercontent.com/390517840/iptv/main/dashijie.m3u
+大视界TV：
 
-TXT格式：
+https://raw.githubusercontent.com/390517840/iptv/main/dashijie.m3u
 
-JOY直播：https://raw.githubusercontent.com/390517840/iptv/main/joy.txt
-
-电视直播：https://raw.githubusercontent.com/390517840/iptv/main/IPTV.txt
-
-大视界TV：https://raw.githubusercontent.com/390517840/iptv/main/dashijie.txt
-
-其它：
-
-https://raw.githubusercontent.com/390517840/iptv/main/tv1.txt
-
-https://raw.githubusercontent.com/390517840/iptv/main/tv2.txt
+https://raw.githubusercontent.com/390517840/iptv/main/dashijie.txt
 
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
 
 我的博客：https://390517840.github.io/
+
+电报群：https://t.me/iptv521
 
 以上直播源持续更新ing，不保证100%实时清晰稳定！如涉及版权会在第一时间自行删除！
