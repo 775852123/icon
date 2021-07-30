@@ -33,9 +33,7 @@ https://raw.githubusercontent.com/390517840/iptv/main/IPTV.m3u
 
 https://raw.githubusercontent.com/390517840/iptv/main/IPTV.txt
 
-大视界TV：
-
-https://raw.githubusercontent.com/390517840/iptv/main/dashijie.txt
+大视界TV：https://raw.githubusercontent.com/390517840/iptv/main/dashijie.txt
 
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
 
