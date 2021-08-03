@@ -698,7 +698,7 @@ http://39.135.138.5:6610/PLTV/88888888/224/3221226188/2/index.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2021/0330/20210330090556.jpeg" group-title="网络电台(无图像)",清晨音乐台
 http://live.xmcdn.com/live/1011/64.m3u8
 #EXTINF:-1 tvg-logo="https://pic.qingting.fm/2017/1213/20171213044254.jpeg" group-title="网络电台(无图像)",80后音悦台
-https://lhttp.qingting.fm/live/4915/64k.mp3?app_id=web&ts=6102bf17&sign=94e8f4a82e7470db8d9c7738b8f09fbc
+https://lhttp.qingting.fm/live/4915/64k.mp3
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025486781.jpg" group-title="网络电台(无图像)", 中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-id="Dummy" tvg-logo="http://cnvod.cnr.cn/audio2017/ondemand/img/1100/20191227/1577439539975.png" group-title="网络电台(无图像)", 经济之声
