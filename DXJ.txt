@@ -560,7 +560,7 @@ PO·千千阙歌(越南语),http://189.ly93.cc/IfEba222qAb2/7150023617035037?acc
 梦的海洋,http://189.ly93.cc/y2yiai7nAZzu/6154723611444013?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 
 【关于直播】,#genre#
-版本更新2021.8.2,https://raw.githubusercontent.com/390517840/iptv/main/version.mkv
+版本更新2021.8.5,https://raw.githubusercontent.com/390517840/iptv/main/version.mkv
 加入电报群,https://raw.githubusercontent.com/390517840/iptv/main/Telegram.mkv
 DIYP教程,https://raw.githubusercontent.com/390517840/iptv/main/diyp.mkv
 perfect player教程,https://raw.githubusercontent.com/390517840/iptv/main/perfect_player.mkv
