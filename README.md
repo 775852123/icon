@@ -35,6 +35,8 @@ https://raw.githubusercontent.com/390517840/iptv/main/IPTV.txt
 
 大X界TV：
 
+https://raw.githubusercontent.com/390517840/iptv/main/DXJ.m3u
+
 https://raw.githubusercontent.com/390517840/iptv/main/DXJ.txt
 
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
