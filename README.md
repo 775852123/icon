@@ -39,6 +39,10 @@ https://raw.githubusercontent.com/390517840/iptv/main/DXJ.m3u
 
 https://raw.githubusercontent.com/390517840/iptv/main/DXJ.txt
 
+坚果TV：
+
+https://raw.githubusercontent.com/390517840/iptv/main/JG.txt
+
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
 
 我的博客：https://390517840.github.io/
