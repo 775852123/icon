@@ -965,3 +965,9 @@ iHot爱解密,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/2
 iHot爱谍战,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/index.m3u8
 iHot爱赛车,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230032/index.m3u8
 iHot爱都市,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/index.m3u8
+
+【关于直播】,#genre#
+版本更新2021.8.19,https://raw.githubusercontent.com/390517840/iptv/main/version.mkv
+加入电报群,https://raw.githubusercontent.com/390517840/iptv/main/Telegram.mkv
+DIYP教程,https://raw.githubusercontent.com/390517840/iptv/main/diyp.mkv
+perfect player教程,https://raw.githubusercontent.com/390517840/iptv/main/perfect_player.mkv
