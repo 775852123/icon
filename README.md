@@ -41,7 +41,7 @@ https://raw.githubusercontent.com/390517840/iptv/main/JG.txt
 
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
 
-直播中国：https://raw.githubusercontent.com/390517840/iptv/main/%E7%9B%B4%E6%92%AD%E4%B8%AD%E5%9B%BD720p%E5%AE%98%E7%BD%91%E6%BA%90.txt
+直播中国：https://raw.githubusercontent.com/390517840/iptv/main/livechina.txt
 
 我的博客：https://390517840.github.io/
 
