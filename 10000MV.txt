@@ -1,4 +1,5 @@
-﻿3号[853*480],http://em.21dtv.com/songs/60110002.mkv
+万首MV,#genre#
+3号[853*480],http://em.21dtv.com/songs/60110002.mkv
 2号[853*480],http://em.21dtv.com/songs/60110001.mkv
 1号[720*540],http://em.21dtv.com/songs/60110000.mkv
 4号[854*480],http://em.21dtv.com/songs/60110003.mkv
@@ -9956,3 +9957,9 @@
 9999号[853*480],http://em.21dtv.com/songs/60119998.mkv
 10000号[854*480],http://em.21dtv.com/songs/60119999.mkv
 10001号[854*480],http://em.21dtv.com/songs/60120000.mkv
+
+【关于直播】,#genre#
+版本更新2021.8.5,https://raw.githubusercontent.com/390517840/iptv/main/version.mkv
+加入电报群,https://raw.githubusercontent.com/390517840/iptv/main/Telegram.mkv
+DIYP教程,https://raw.githubusercontent.com/390517840/iptv/main/diyp.mkv
+perfect player教程,https://raw.githubusercontent.com/390517840/iptv/main/perfect_player.mkv
