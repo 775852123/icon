@@ -1773,3 +1773,11 @@ https://ads.its-newid.net/api/manifest.m3u8?tp%3Dsamsung_tvplus%26channel_name%3
 https://ads.its-newid.net/api/manifest.m3u8?tp%3Dsamsung_tvplus%26channel_name%3Dch.%ED%95%91%ED%81%AC%ED%90%81%26channel_id%3Dnewid_022%26apikey%3Db97c7a7d0c82424bb607e141ef215779%26auth%3D2056c90d-547037a5-169ab56c-8ec32d93%26ads.device_did%3D%7BPSID%7D%26ads.device.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app.name%3D%7BAPP_NAME%7D%26coppa%3D1%26ads.content_title%3D%5BPROGRAM_TITLE%5D%26ads.content_series%3D%5BSERIES_TITLE%5D%26ads.content_season%3D%5BSEASON_TITLE%5D%26ads.content_episode%3D%5BEPISODE_NO%5D%26ads.content_length%3D%5BCONTENT_LENGTH%5D
 #EXTINF:-1 tvg-id="KRBB5000052G" tvg-chno="832" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/35/KRBB5000052G_20210324T000850.png" group-title="Korea;어린이",미니특공대TV
 https://ads.its-newid.net/api/manifest.m3u8?tp%3Dsamsung_tvplus%26channel_name%3D%EB%AF%B8%EB%8B%88%ED%8A%B9%EA%B3%B5%EB%8C%80tv%26channel_id%3Dnewid_025%26apikey%3Db97c7a7d0c82424bb607e141ef215779%26auth%3D7ce6ea64-d4adc57c-be58d030-0e1edf4a%26ads.device_did%3D%7BPSID%7D%26ads.device.dnt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app.name%3D%7BAPP_NAME%7D%26coppa%3D1%26ads.content_title%3D%5BPROGRAM_TITLE%5D%26ads.content_series%3D%5BSERIES_TITLE%5D%26ads.content_season%3D%5BSEASON_TITLE%5D%26ads.content_episode%3D%5BEPISODE_NO%5D%26ads.content_length%3D%5BCONTENT_LENGTH%5D
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/version.png" group-title="【关于直播】",版本更新 2021.8.22
+https://raw.githubusercontent.com/390517840/iptv/main/about/version.mkv
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/Telegram.png" group-title="【关于直播】",扫码加入电报群
+https://raw.githubusercontent.com/390517840/iptv/main/about/Telegram.mkv
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/diyp.png" group-title="【关于直播】",DIYP教程
+https://raw.githubusercontent.com/390517840/iptv/main/about/diyp.mkv
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/perfect_player.png" group-title="【关于直播】",perfect player教程
+https://raw.githubusercontent.com/390517840/iptv/main/about/perfect_player.mkv
