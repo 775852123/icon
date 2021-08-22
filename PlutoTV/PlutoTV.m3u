@@ -1641,3 +1641,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ecfb9db6c180007a6d1
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f8ed327f9e9b0000761141e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="60803e541a829e0008e91641" tvg-chno="1020" tvg-logo="https://images.pluto.tv/channels/60803e541a829e0008e91641/colorLogoPNG.png" group-title="France;Sports",Pluto TV Yoga
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60803e541a829e0008e91641/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/version.png" group-title="【关于直播】",版本更新 2021.8.22
+https://raw.githubusercontent.com/390517840/iptv/main/about/version.mkv
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/Telegram.png" group-title="【关于直播】",扫码加入电报群
+https://raw.githubusercontent.com/390517840/iptv/main/about/Telegram.mkv
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/diyp.png" group-title="【关于直播】",DIYP教程
+https://raw.githubusercontent.com/390517840/iptv/main/about/diyp.mkv
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/perfect_player.png" group-title="【关于直播】",perfect player教程
+https://raw.githubusercontent.com/390517840/iptv/main/about/perfect_player.mkv
