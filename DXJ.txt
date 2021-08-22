@@ -371,7 +371,7 @@ News·Max,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
 Racing·运动,http://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 大视界TV,http://189.ly93.cc/MruQBfM73Qnu/9132223625637130?accessToken=C0AE9226E93005D3A088CC8F39C2B799
 
-·港台杂类·_121,#genre#
+港台杂类,#genre#
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 历史频道,https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8#http://185.180.221.194:8278/streams/d/History/playlist.m3u8
@@ -437,6 +437,7 @@ VIU-TV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 VIU-6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 Eleven-体育1,rtmp://161.202.204.248:1935/sat/tv731
 Eleven-体育2,rtmp://161.202.204.248:1935/sat/tv741
+
 【关于直播】,#genre#
 版本更新2021.8.22,https://raw.githubusercontent.com/390517840/iptv/main/about/version.mkv
 加入电报群,https://raw.githubusercontent.com/390517840/iptv/main/about/Telegram.mkv
