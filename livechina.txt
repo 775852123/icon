@@ -884,7 +884,7 @@
 福建武夷山玉女峰,http://gctxyc.liveplay.myqcloud.com/gc/wysynf_1/index.m3u8
 为天使护航,http://gctxyc.liveplay.myqcloud.com/gc/zsslsfwsgz_1/index.m3u8
 【关于直播】,#genre#
-版本更新2021.8.5,https://raw.githubusercontent.com/390517840/iptv/main/version.mkv
+版本更新2021.8.22,https://raw.githubusercontent.com/390517840/iptv/main/version.mkv
 加入电报群,https://raw.githubusercontent.com/390517840/iptv/main/Telegram.mkv
 DIYP教程,https://raw.githubusercontent.com/390517840/iptv/main/diyp.mkv
 perfect player教程,https://raw.githubusercontent.com/390517840/iptv/main/perfect_player.mkv
