@@ -45,13 +45,17 @@ SamsungTVPlus:
 
 https://raw.githubusercontent.com/390517840/iptv/main/SamsungTVPlus/SamsungTVPlus.m3u
 
-SamsungTVPlus EPG:https://raw.githubusercontent.com/390517840/iptv/main/SamsungTVPlus/SamsungTVPlus.xml
+SamsungTVPlus EPG:
+
+https://raw.githubusercontent.com/390517840/iptv/main/SamsungTVPlus/SamsungTVPlus.xml
 
 PlutoTV:
 
 https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.m3u
 
-PlutoTV EPG:https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.xml
+PlutoTV EPG:
+
+https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.xml
 
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
 
