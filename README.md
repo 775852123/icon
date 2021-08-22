@@ -21,7 +21,11 @@ iptv pro：https://apk4free.org/iptv-pro/
 
 ### 二，EPG节目单
 
-EPG节目单：http://epg.51zmt.top:8000/e.xml
+EPG节目单：
+
+http://epg.51zmt.top:8000/e.xml
+
+http://epg.51zmt.top:8000/e.xml.gz
 
 DIYP 专用：
 http://epg.51zmt.top:8000/api/diyp/
@@ -49,6 +53,8 @@ SamsungTVPlus EPG:
 
 https://raw.githubusercontent.com/390517840/iptv/main/SamsungTVPlus/SamsungTVPlus.xml
 
+https://raw.githubusercontent.com/390517840/iptv/main/SamsungTVPlus/SamsungTVPlus.xml.gz
+
 PlutoTV:
 
 https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.m3u
@@ -56,6 +62,8 @@ https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.m3u
 PlutoTV EPG:
 
 https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.xml
+
+https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.xml.gz
 
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
 
