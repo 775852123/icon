@@ -68,6 +68,8 @@ https://raw.githubusercontent.com/390517840/iptv/main/PlutoTV/PlutoTV.xml.gz
 
 万首音乐MV：https://raw.githubusercontent.com/390517840/iptv/main/10000MV.txt
 
+MV:https://raw.githubusercontent.com/390517840/iptv/main/MV.txt
+
 直播中国：https://raw.githubusercontent.com/390517840/iptv/main/livechina.txt
 
 我的博客：https://390517840.github.io/
