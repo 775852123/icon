@@ -1,7 +1,7 @@
 
 ## 分享直播源订阅：
 
-### ** 一，如何使用?** 
+### 一，如何使用?
 
 个人推荐使用DIYP影音，百川影音添加TXT格式的直播源，M3U直播源推荐使用Perfect_Player-Full，TiviMate，IPTV PRO等。。。
 
