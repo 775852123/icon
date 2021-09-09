@@ -19,6 +19,8 @@ iptv pro：https://apk4free.org/iptv-pro/
 
 百川：https://sharerw.lanzoui.com/b0aes9pcj
 
+Televizo：https://sharerw.lanzoui.com/ibkp8kj#1ibw
+
 ### 二，EPG节目单
 
 EPG节目单：
