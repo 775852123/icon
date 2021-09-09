@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -266,9 +266,9 @@ http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%94%98%E8%82%83%E5%B0%91%E5%84%BF.png" group-title="少儿",甘肃少儿
 http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png" group-title="少儿",福建少儿
-rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png" group-title="少儿",福建少儿 备用
-rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+
 #EXTINF:-1 tvg-name="福州少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv4.jpg" group-title="少儿",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="少儿",内蒙古少儿
