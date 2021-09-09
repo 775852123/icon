@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
 http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
@@ -138,11 +138,15 @@ http://test5.btzx.com.cn/live/btxjbtws.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="卫视",海峡卫视
-
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E6%B5%B7%E5%B3%A1%E5%8D%AB%E8%A7%86.png" group-title="卫视",海峡卫视 备用
+rtsp://183.252.166.199:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://womlive.cloud.wo.cn/tvlive/100022/otpzod_otpzod,100022_hls_pull_2000K_live.m3u8
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
-http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?
+http://39.134.93.229:6610/000000001000/nxweishi/1.m3u8?.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 标清
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://39.134.66.10/PLTV/88888888/224/3221225872/index.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
@@ -262,7 +266,9 @@ http://live6.plus.hebtv.com/sekjx/hd/live.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%94%98%E8%82%83%E5%B0%91%E5%84%BF.png" group-title="少儿",甘肃少儿
 http://39.134.39.39/PLTV/88888888/224/3221226289/index.m3u8
 #EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png" group-title="少儿",福建少儿
-
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E7%A6%8F%E5%BB%BA%E5%B0%91%E5%84%BF.png" group-title="少儿",福建少儿 备用
+rtsp://183.252.166.199/PLTV/88888888/224/3221226120/10000100000000060000000002358082_0.smil
 #EXTINF:-1 tvg-name="福州少儿" tvg-logo="http://www.tvyan.com/uploads/dianshi/fztv4.jpg" group-title="少儿",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古少儿" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF.png" group-title="少儿",内蒙古少儿
@@ -369,10 +375,12 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/2300000/mnf.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E9%BB%91%E8%8E%93%E7%94%B5%E7%AB%9E.png" group-title="电竞",黑莓电竞 备用
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8
-#EXTINF:-1 tvg-logo="https://pp.myapp.com/ma_icon/0/icon_52575843_1631064621/96.png" group-title="电竞",和平精英
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/cefc1e178a82b9014a909d970cc2be773912b31b414d?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="电竞",和平精英
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/750616/live_50329337_6907945_4000/index.m3u8?expires=1630914243&len=0&oi=1008694412&pt=web&qn=0&trid=1007274789406e284402ad6cb509dccb0cfc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=3a70111aede57d4e0de54f7fdf3cf991&p2p_type=1&src=5&sl=1&free_type=0&sk=c9c6154426932efa80d25af02e87a3bd
-#EXTINF:-1 tvg-logo="https://pp.myapp.com/ma_icon/0/icon_12127266_1629786803/96.png" group-title="电竞",王者荣耀
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf6c8162a7b790ab3eb13533faeb5f?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="电竞",王者荣耀
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/483937/live_392836434_52698792_4000/index.m3u8?expires=1630913782&len=0&oi=1008694412&pt=web&qn=0&trid=1007dc58087e67cc452ca62851568bfefd72&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=4996b84af7367917bce7102330f99645&p2p_type=1&src=13&sl=2&free_type=0&sk=c9c6154426932efa80d25af02e87a3bd
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/35a85edf8db1cb134954ae30021e414e9258d109ddf7?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="电竞",使命召唤
+https://d1--cn-gotcha03.bilivideo.com/live-bvc/509781/live_531838687_80622745.flv?expires=1631166778&len=0&oi=3746059745&pt=web&qn=0&trid=1000bc70a6188d6649ce9eb72683a688254e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha03&sign=0576c95e6591a0fe7976d499638508c8&p2p_type=4294967294&src=4&sl=1&free_type=0&sk=4b1289f1e3860d5e8f460a846624ae66
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="生活纪实",茶频道
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/TVG-logo/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" group-title="生活纪实",中华特产
@@ -627,8 +635,6 @@ http://bd.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-
 http://tx.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv?wsSecret=8a829a8b4bb9e23ea02497df9fb5d97b&wsTime=610fc9db&uid=0&seqid=16283382362018188&ctype=tars_mobile&ver=1&t=103
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w94_and_h141_bestv2/yvm10wHnOQaGl9a4X9KnDHaoJ8W.jpg" group-title="明星专场",李小龙
 http://bd.hls.huya.com/huyalive/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsSecret=ed821304d90d641344832186ef0a7ede&wsTime=611e19e1&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Afz1%3B&fs=bgct
-#EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=1556210003,2643187920&fm=26&fmt=auto&gp=0.jpg" group-title="明星专场",许冠英
-http://va.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.flv?wsTime
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/7d4hgOzFW7CWPcE92eTSEFRSObC.jpg" group-title="明星专场",李连杰
 http://va.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv?wsTime
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/8gS55Yvd4XR9ntBGQiDN3vma712.jpg" group-title="明星专场",林正英
@@ -643,6 +649,8 @@ http://bd.hls.huya.com/src/1199573518691-1199573518691-5487435360524828672-23991
 http://bd.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8?wsSecret=42e711d6a5aaab05d03d30dc21c956ae&wsTime=611e1993&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Ad3%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/s0JXQhCmKUmtxiuI2rjH8hfE470.jpg" group-title="明星专场",葛优
 http://bd.hls.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.m3u8?wsSecret=076d965c4af00e50b43ba95998ab41dc&wsTime=611e199b&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*-265_*
+#EXTINF:-1 tvg-logo="https://img2.baidu.com/it/u=1556210003,2643187920&fm=26&fmt=auto&gp=0.jpg" group-title="明星专场",许冠英
+http://va.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.flv?wsTime
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/gNn875jcFFxQD9IX7LhpZeAPqtk.jpg" group-title="明星专场",谢霆锋
 http://tx.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8?wsSecret=65a826a508c32b5898389f7c472e497c&wsTime=611e187d&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_tars&txyp=o%3Anc4%3B&fs=bgct
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w90_and_h90_face/zOzz4woq7dfcll9AR1yGiQbjY4.jpg" group-title="明星专场",黄渤
@@ -1049,6 +1057,10 @@ http://vip.auney.cn/api/huya.php?id=11601982
 http://vip.auney.cn/api/huya.php?id=11352910
 #EXTINF:-1 group-title="虎牙 备用",炊事班的故事
 http://vip.auney.cn/api/huya.php?id=11352895
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/eaf81a4c510fd9f97107c1b6222dd42a2934a4d9?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="哔哩哔哩",新白娘子传奇
+https://d1--cn-gotcha04.bilivideo.com/live-bvc/953707/live_415183174_49603102.flv?expires=1631166487&len=0&oi=3746059745&pt=web&qn=0&trid=10007cba6143aec3408db9f3f330abde597f&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=3e7b7d201659cae90a48ee68bf541828&p2p_type=4294967294&src=8&sl=1&free_type=0&sk=18232a4fcc82e4c037c33d7e083619b4
+#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/d043ad4bd11373f0359c770eae0f4bfbfaed04fb?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_jpg" group-title="哔哩哔哩",少年包青天
+https://d1--cn-gotcha04.bilivideo.com/live-bvc/720060/live_100661122_1884224.flv?expires=1631166623&len=0&oi=3746059745&pt=web&qn=0&trid=100006d2e988dcc549728b8e750f9a496baf&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=406d5623e54221fff78c7e5e50e08b9d&p2p_type=4294967294&src=9&sl=1&free_type=0&sk=18232a4fcc82e4c037c33d7e083619b4
 #EXTINF:-1 tvg-id="6169" tvg-name="亚洲美食频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="港澳台",AFC-美食[1280*720]
 https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="港澳台",Baby TV Eng
@@ -1759,7 +1771,7 @@ http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radio.cn/img/default/2014/9/18/1411025662260.jpg" group-title="网络电台(无图像)",香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/version.png" group-title="【关于直播】",版本更新 2021.9.8
+#EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/version.png" group-title="【关于直播】",版本更新 2021.9.9
 https://raw.githubusercontent.com/390517840/iptv/main/about/version.mkv
 #EXTINF:-1 tvg-logo="https://gitee.com/jackguo1982/iptv/raw/master/Video/Telegram.png" group-title="【关于直播】",扫码加入电报群
 https://raw.githubusercontent.com/390517840/iptv/main/about/Telegram.mkv
