@@ -76,8 +76,6 @@ MV:https://raw.githubusercontent.com/390517840/iptv/main/MV.txt
 
 直播中国：https://raw.githubusercontent.com/390517840/iptv/main/livechina.txt
 
-我的博客：https://390517840.github.io/
-
 电报群：https://t.me/iptv521
 
 以上直播源持续更新ing，不保证100%实时清晰稳定！如涉及版权会在第一时间自行删除！
