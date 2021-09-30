@@ -149,7 +149,7 @@ http://39.134.66.10/PLTV/88888888/224/3221225872/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://39.134.66.10/PLTV/88888888/224/3221225849/index.m3u8
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E5%86%85%E8%92%99%E5%8F%A4%E5%B0%91%E5%84%BF%E5%8D%AB%E8%A7%86.png" group-title="卫视",内蒙古卫视
 http://live.m2oplus.nmtv.cn/1/playlist.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视 标清
 http://219.151.31.43/liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
@@ -371,12 +371,16 @@ http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/2300000/mnf.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225653/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E9%BB%91%E8%8E%93%E7%94%B5%E7%AB%9E.png" group-title="电竞",黑莓电竞 备用
 http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225931/1.m3u8
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/63d9f2d3572c11dfa9ec1c061a7775d0f703918f64cf?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" group-title="电竞",和平精英
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E5%92%8C%E5%B9%B3%E7%B2%BE%E8%8B%B1.jpg" group-title="电竞",和平精英
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/750616/live_50329337_6907945_4000/index.m3u8?expires=1630914243&len=0&oi=1008694412&pt=web&qn=0&trid=1007274789406e284402ad6cb509dccb0cfc&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=3a70111aede57d4e0de54f7fdf3cf991&p2p_type=1&src=5&sl=1&free_type=0&sk=c9c6154426932efa80d25af02e87a3bd
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/b2de9c82d158ccbf6c8162a7b790ab3eb13533faeb5f?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" group-title="电竞",王者荣耀
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80.jpg" group-title="电竞",王者荣耀
 https://d1--cn-gotcha204.bilivideo.com/live-bvc/483937/live_392836434_52698792_4000/index.m3u8?expires=1630913782&len=0&oi=1008694412&pt=web&qn=0&trid=1007dc58087e67cc452ca62851568bfefd72&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha04&sign=4996b84af7367917bce7102330f99645&p2p_type=1&src=13&sl=2&free_type=0&sk=c9c6154426932efa80d25af02e87a3bd
-#EXTINF:-1 tvg-logo="https://bkimg.cdn.bcebos.com/pic/35a85edf8db1cb134954ae30021e414e9258d109ddf7?x-bce-process=image/resize,m_lfit,w_536,limit_1/format,f_jpg" group-title="电竞",使命召唤
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E4%BD%BF%E5%91%BD%E5%8F%AC%E5%94%A4.jpg" group-title="电竞",使命召唤
+http://vip.auney.cn/api/huya.php?id=11718629
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C.jpg" group-title="电竞",我的世界
+http://vip.auney.cn/api/huya.php?id=273731
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E5%8E%9F%E7%A5%9E.jpg" group-title="电竞",原神
+http://vip.auney.cn/api/huya.php?id=23712091
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E8%8C%B6%E9%A2%91%E9%81%93.png" group-title="生活纪实",茶频道
 http://39.134.135.80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226548/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/390517840/tvg-logo/main/%E4%B8%AD%E5%8D%8E%E7%89%B9%E4%BA%A7.png" group-title="生活纪实",中华特产
