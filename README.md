@@ -3,11 +3,13 @@
 
 ### 一，如何使用?
 
-个人推荐使用DIYP影音，百川影音添加TXT格式的直播源，M3U直播源推荐使用Perfect_Player-Full，TiviMate，IPTV PRO等。。。
-
+个人推荐使用DIYP影音，百川影音添加TXT格式的直播源，M3U直播源推荐使用
+Perfect_Player-Full，TiviMate，IPTV PRO...
 当然KODI安装插件也可以哦！
 
 ### 附下载地址：
+
+百川：https://sharerw.lanzoui.com/b0aes9pcj
 
 DIYP影音：https://sharerw.lanzoui.com/b0aevufxe
 
@@ -17,7 +19,7 @@ Tivimaet：https://apkmb.com/tivimate-iptv-player/
 
 iptv pro：https://apk4free.org/iptv-pro/
 
-百川：https://sharerw.lanzoui.com/b0aes9pcj
+
 
 Televizo：https://sharerw.lanzoui.com/ibkp8kj#1ibw
 
