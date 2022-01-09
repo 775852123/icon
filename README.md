@@ -13,7 +13,7 @@ Perfect_Player-Full，TiviMate，IPTV PRO...
 
 DIYP影音：https://sharerw.lanzoui.com/b0aevufxe
 
-完美播放器：https://apk4free.org/perfect-player-iptv/
+perfect player：https://apk4free.org/perfect-player-iptv/
 
 Tivimaet：https://apkmb.com/tivimate-iptv-player/
 
