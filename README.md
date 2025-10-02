@@ -1,7 +1,10 @@
 图标icon：
 
-酷我音乐
+酷我
 https://raw.githubusercontent.com/775852123/icon/main/kuwo.png
+
+酷狗
+https://raw.githubusercontent.com/775852123/icon/main/kugou.png
 
 TMDB
 https://raw.githubusercontent.com/775852123/icon/main/TMDB.png
@@ -20,3 +23,4 @@ https://raw.githubusercontent.com/775852123/icon/refs/heads/main/%E5%9C%86%E8%A7
 
 ofiii
 https://raw.githubusercontent.com/775852123/icon/refs/heads/main/%E5%9C%86%E8%A7%92-ofiii.png
+
