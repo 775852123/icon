@@ -25,4 +25,4 @@ ofiii
 https://raw.githubusercontent.com/775852123/icon/refs/heads/main/%E5%9C%86%E8%A7%92-ofiii.png
 
 cloudflare
-https://github.com/775852123/icon/blob/582cbfa93c19831989bc3879d3610f865f4e5cc9/cloudflare.png
+https://raw.githubusercontent.com/775852123/icon/main/cloudflare.png
