@@ -32,3 +32,6 @@ https://raw.githubusercontent.com/775852123/icon/main/cloudflare2.png
 
 cloudflare白色描边+阴影
 https://raw.githubusercontent.com/775852123/icon/main/cloudflare3.png
+
+巴姆雷特动画疯
+https://raw.githubusercontent.com/775852123/icon/main/Bahamut.png
