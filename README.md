@@ -27,3 +27,8 @@ https://raw.githubusercontent.com/775852123/icon/main/%E5%9C%86%E8%A7%92-ofiii.p
 cloudflare
 https://raw.githubusercontent.com/775852123/icon/main/cloudflare.png
 
+cloudflare白色描边
+https://raw.githubusercontent.com/775852123/icon/main/cloudflare2.png
+
+cloudflare白色描边+阴影
+https://raw.githubusercontent.com/775852123/icon/main/cloudflare3.png
