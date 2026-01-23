@@ -19,10 +19,11 @@ Bitz Net
 https://raw.githubusercontent.com/775852123/icon/main/Bitz%20Net.png
 
 ofiii+动漫剧集
-https://raw.githubusercontent.com/775852123/icon/refs/heads/main/%E5%9C%86%E8%A7%92-ofiii2.jpg
+https://raw.githubusercontent.com/775852123/icon/main/%E5%9C%86%E8%A7%92-ofiii2.jpg
 
 ofiii
-https://raw.githubusercontent.com/775852123/icon/refs/heads/main/%E5%9C%86%E8%A7%92-ofiii.png
+https://raw.githubusercontent.com/775852123/icon/main/%E5%9C%86%E8%A7%92-ofiii.png
 
 cloudflare
 https://raw.githubusercontent.com/775852123/icon/main/cloudflare.png
+
